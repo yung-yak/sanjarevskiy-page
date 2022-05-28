@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/sanjarevskiy-page/static/css/main.073c9b0a.css",
+    "main.js": "/sanjarevskiy-page/static/js/main.e021fd85.js",
+    "static/js/787.ebdbe7f1.chunk.js": "/sanjarevskiy-page/static/js/787.ebdbe7f1.chunk.js",
+    "static/media/logo.svg": "/sanjarevskiy-page/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "index.html": "/sanjarevskiy-page/index.html",
+    "main.073c9b0a.css.map": "/sanjarevskiy-page/static/css/main.073c9b0a.css.map",
+    "main.e021fd85.js.map": "/sanjarevskiy-page/static/js/main.e021fd85.js.map",
+    "787.ebdbe7f1.chunk.js.map": "/sanjarevskiy-page/static/js/787.ebdbe7f1.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.073c9b0a.css",
+    "static/js/main.e021fd85.js"
+  ]
+}
