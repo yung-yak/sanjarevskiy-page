@@ -1,16 +1,16 @@
 {
   "files": {
     "main.css": "/sanjarevskiy-page/static/css/main.073c9b0a.css",
-    "main.js": "/sanjarevskiy-page/static/js/main.e106af59.js",
+    "main.js": "/sanjarevskiy-page/static/js/main.960ba387.js",
     "static/js/787.ebdbe7f1.chunk.js": "/sanjarevskiy-page/static/js/787.ebdbe7f1.chunk.js",
     "static/media/profile-photo.png": "/sanjarevskiy-page/static/media/profile-photo.3194472ef25ada0ca230.png",
     "index.html": "/sanjarevskiy-page/index.html",
     "main.073c9b0a.css.map": "/sanjarevskiy-page/static/css/main.073c9b0a.css.map",
-    "main.e106af59.js.map": "/sanjarevskiy-page/static/js/main.e106af59.js.map",
+    "main.960ba387.js.map": "/sanjarevskiy-page/static/js/main.960ba387.js.map",
     "787.ebdbe7f1.chunk.js.map": "/sanjarevskiy-page/static/js/787.ebdbe7f1.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.073c9b0a.css",
-    "static/js/main.e106af59.js"
+    "static/js/main.960ba387.js"
   ]
 }
